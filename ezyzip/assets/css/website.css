@@ -1,0 +1,25 @@
+
+.team-member {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.team-member h2 {
+    color: #333;
+}
+
+.team-member p {
+    margin: 8px 0;
+}
+
+.team-member a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.team-member a:hover {
+    text-decoration: underline;
+}
